@@ -1,6 +1,5 @@
 import React from 'react'
 import { Switch, Route, Link} from 'react-router-dom'
-import LinkBtn from './components/LinkBtn'
 import Home from './components/Home'
 import Epic from './components/Epic'
 import './App.css'
